@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ejemplo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="txt_lat_lon">%1$.8f, %2$.8f</string>
+	<string name="txt_marker_title">Lugar agregado %1$s</string>
+	<string name="txt_marker_snippet">A las %1$s</string>
+	<string name="btn_delete">Eliminar marcadores</string>
+</resources>
